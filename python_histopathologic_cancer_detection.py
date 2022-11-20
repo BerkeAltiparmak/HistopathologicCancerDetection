@@ -354,6 +354,6 @@ for batch_i, (data, target) in enumerate(loader_test):
     pr = output[:,1].detach().cpu().numpy()
     for i in pr:
         preds.append(i)
-sub.shape, len(preds)
-sub['label'] = preds
-sub.to_csv('s.csv', index=False)
+submission.shape, len(preds)
+submission['label'] = preds
+submission.to_csv('s.csv', index=False)
