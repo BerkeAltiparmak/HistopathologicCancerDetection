@@ -15,3 +15,6 @@ Authors: Berke Altiparmak (altiparmak.berke@gmail.com), Lindy Zhai (lindy.zhai@m
 References:
 * https://www.kaggle.com/code/bonhart/pytorch-cnn-from-scratch for the model.
 * https://www.kaggle.com/code/gomezp/complete-beginner-s-guide-eda-keras-lb-0-93 for data visualization.
+
+
+<img width="626" alt="Screen Shot 2022-11-19 at 20 17 36" src="https://user-images.githubusercontent.com/96665962/202878132-d13bc052-bf4e-466a-b225-a1109ad9bfdd.png">
